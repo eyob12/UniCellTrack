@@ -63,7 +63,7 @@ UniCellTrack/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/UniCellTrack.git
+git clone https://github.com/eyob12/UniCellTrack.git
 cd UniCellTrack
 pip install -r requirements.txt
 ```
