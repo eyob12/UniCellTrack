@@ -1,7 +1,7 @@
 
 # 🧬 UniCellTrack
 
-A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy, combining SAM-based segmentation with hybrid graph–optical flow tracking.
+A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy.
 
 ---
 
