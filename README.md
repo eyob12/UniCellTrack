@@ -2,15 +2,17 @@
 # 🧬 UniCellTrack
 
 A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy.
-<p align="center">
+<div align="center">
+  <!-- Top image (centered above the bottom row) -->
   <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/Fhela_tracking_result.gif?raw=true" width="90%" />
-  
-</p>
 
-<p align="center">
-  <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/MUSC_tracking_result.gif?raw=true" width="45%" />
-  <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/GOWT1_tracking_result.gif?raw=true" width="40%" />
-</p>
+  <!-- Bottom row with two side-by-side images -->
+  <div>
+    <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/MUSC_tracking_result.gif?raw=true" width="45%" style="margin: 5px;" />
+    <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/GOWT1_tracking_result.gif?raw=true" width="45%" style="margin: 5px;" />
+  </div>
+</div>
+
 
 
 ---
