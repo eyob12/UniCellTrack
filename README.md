@@ -8,8 +8,8 @@ A unified framework for segmentation and tracking of densely packed cells in 2D 
 </p>
 
 <p align="center">
-  <img src="https://github.com/eyob12/video/blob/main/PSC_tracking_result.gif?raw=true" width="45%" />
-  <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/GOWT1_tracking_result.gif?raw=true" width="45%" />
+  
+  <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/GOWT1_tracking_result.gif?raw=true" width="90%" />
 </p>
 
 
