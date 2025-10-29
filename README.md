@@ -3,15 +3,23 @@
 
 A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy.
 <div align="center">
-  <!-- Top image (centered above the bottom row) -->
+  <!-- Top image (centered) -->
   <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/Fhela_tracking_result.gif?raw=true" width="90%" />
-
-  <!-- Bottom row with two side-by-side images -->
-  <div>
-    <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/MUSC_tracking_result.gif?raw=true" width="45%" style="margin: 5px;" />
-    <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/GOWT1_tracking_result.gif?raw=true" width="45%" style="margin: 5px;" />
-  </div>
+  
+  <!-- Bottom row images with space to align like a T -->
+  <table>
+    <tr>
+      <td align="right" width="45%">
+        <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/MUSC_tracking_result.gif?raw=true" width="90%" />
+      </td>
+      <td width="10%"></td> <!-- spacer column -->
+      <td align="left" width="45%">
+        <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/GOWT1_tracking_result.gif?raw=true" width="90%" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
