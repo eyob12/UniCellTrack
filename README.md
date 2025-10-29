@@ -30,8 +30,7 @@ The source code for this repository will be publicly released upon the acceptanc
 
 ## 📂 Supported Datasets
 
-* `BF-C2DL-HSC`, `BF-C2DL-MuSC`, `Fluo-C2DL-MSC`, `Fluo-N2DH-GOWT1`, `Fluo-N2DL-HeLa`
-* `PhC-C2DL-PSC`, `PhC-C2DH-U373`, `DIC-C2DH-HeLa`, `Fluo-N2DH-SIM+`
+* `BF-C2DL-HSC`, `BF-C2DL-MuSC`, `Fluo-C2DL-MSC`, `Fluo-N2DH-GOWT1`, `Fluo-N2DL-HeLa`, `PhC-C2DL-PSC`, `PhC-C2DH-U373`, `DIC-C2DH-HeLa`, `Fluo-N2DH-SIM+`
 
 Each dataset is handled in the CTC format with frame-wise `.tif` images and corresponding `GT` masks.
 
