@@ -20,7 +20,7 @@ The source code for this repository will be publicly released upon the acceptanc
 ## ✨ Key Features
 
 * 🧬 **Dataset Support**: Tested on nine 2D datasets from the [Cell Tracking Challenge (CTC)](http://celltrackingchallenge.net/).
-* 🧠 **SAM-based Segmentation**: Integrated with MedSAM and adapted for microscopy.
+* 🧠 **SAM-based Segmentation**: Boundary aware SAM Adaption for multi-modality microscopy.
 * 📌 **Self-Prompting**: Automatically generates point prompts from distance maps via DBSCAN.
 * 🔁 **Hybrid Tracking**: Graph-based object linking + optical flow for robust temporal association.
 * 🎨 **Visualizations**: Interactive overlay of segmentation masks, distance maps, and tracking results.
