@@ -100,13 +100,13 @@ python preprocessing/generate_distance_maps.py
 ### Train the Model
 
 ```bash
-python training.py --dataset_dir datasets/ --output_dir saved_model/
+python main.py
 ```
 
 ### Run Inference & Tracking
 
 ```bash
-python test.py --model_path saved_model/checkpoint.pth --dataset Fluo-N2DL-HeLa
+python tracking.py 
 ```
 
 ---
