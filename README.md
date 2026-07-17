@@ -1,4 +1,4 @@
-
+<img width="8002" height="6427" alt="final_CT4" src="https://github.com/user-attachments/assets/a1bea301-fdbb-4722-a564-16292ea5596c" />
 # 🧬 UniCellTrack
 
 A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy.
@@ -26,15 +26,11 @@ A unified framework for segmentation and tracking of densely packed cells in 2D 
 ---
 
 
-## 📜 Code Availability
-
-The source code for this repository will be publicly released upon the acceptance of the associated research paper. Stay tuned for updates!
-
----
 
 ## 🧩 Overview of Methodology
 
-![Overview](https://github.com/user-attachments/assets/abd3f2ac-f023-4d83-ab31-efa876fc46cc)
+
+<img width="8002" height="6427" alt="final_CT4" src="https://github.com/user-attachments/assets/ec5eb822-c0f8-46f6-93cd-d8c922509b37" />
 
 ---
 
