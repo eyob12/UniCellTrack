@@ -1,0 +1,22 @@
+
+# Python version: 3.9.18
+# Notes:
+# - Install: python -m pip install -r requirements.txt
+# - If torch install fails on your machine, install torch/torchvision using the official PyTorch index for your CPU/GPU.
+
+numpy==1.26.4
+opencv-python==4.10.0.84
+SimpleITK==2.5.2
+networkx==3.2.1
+matplotlib==3.8.4
+tqdm==4.66.6
+Pillow==11.0.0
+scikit-image==0.22.0
+scipy==1.10.1
+torch==2.5.0
+torchvision==0.20.0
+transformers==4.46.1
+accelerate==1.8.1
+safetensors==0.4.5
+scikit-learn==1.5.2
+imagecodecs==2024.12.30
