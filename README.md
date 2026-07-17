@@ -1,4 +1,4 @@
-<img width="8002" height="6427" alt="final_CT4" src="https://github.com/user-attachments/assets/a1bea301-fdbb-4722-a564-16292ea5596c" />
+
 # 🧬 UniCellTrack
 
 A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy.
