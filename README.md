@@ -60,22 +60,7 @@ Performance highlights include high TRA scores and reduced manual corrections, d
 
 ---
 
-## 🗂️ Repository Structure
 
-```
-UniCellTrack/
-├── preprocessing/          # Preprocessing scripts for distance maps, masks, resizing
-├── training.py             # Training pipeline with SAM + distance map loss
-├── test.py                 # Inference pipeline for segmentation + tracking
-├── saved_model/            # Checkpoints or converted SAM weights
-├── evaluation/             # Scripts for metric computation and result generation
-├── datasets/               # Downloaded or linked datasets (CTC-style folder layout)
-├── utils/                  # Prompting, post-processing, optical flow, graph utils
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## ⚙️ Installation
 
