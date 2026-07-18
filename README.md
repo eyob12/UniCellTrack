@@ -1,7 +1,7 @@
 
 # 🧬 UniCellTrack
 
-A unified framework for segmentation and tracking of densely packed cells in 2D time-lapse microscopy.
+This is an official repo for UniCellTrack paper .  ["A unified segmentation model with motion-aware graph matching for cross-modality cell tracking"](https://doi.org/10.1016/j.bspc.2026.110729/)
 <div align="center">
   <!-- Top image (centered) -->
   <img src="https://github.com/eyob12/UniCellTrack/blob/main/Result/Fhela_tracking_result.gif?raw=true" width="90%" />
