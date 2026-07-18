@@ -65,7 +65,7 @@ class Args:
     def __init__(self):
         
         self.dataroot ='./ALL_2D_CTC_Data_sep'
-        self.SAM_Weight = '/root/Desktop/data/private/cell_seg_SAM/sam-vit-base'
+        self.SAM_Weight = './sam-vit-base'
         self.seed = 24
         self.gpu_ids = '0'
         self.port = '12355'
